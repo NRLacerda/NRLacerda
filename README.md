@@ -1,4 +1,4 @@
-<img style="object-fit:contain;" src="https://github.com/simonsejse/simonsejse/blob/main/Hnet-image.gif"/>
+<!-- <img style="object-fit:contain;" src="https://github.com/simonsejse/simonsejse/blob/main/Hnet-image.gif"/> -->
 
 <hr>
 
