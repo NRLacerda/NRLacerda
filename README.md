@@ -20,7 +20,7 @@
  <hr>
   <!-- Git trophies -->
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonsejse" alt="neeco" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NRLacerda" alt="neeco" /></a> </p>
 
 <hr>
 <!-- Coding joke image and our details -->
