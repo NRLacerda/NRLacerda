@@ -31,7 +31,7 @@
 
 - 🌱 I’m currently learning **Angular** for my front-end
 
-- 👨‍💻 All of my projects are available at [https://github.com/simonsejse?tab=repositories](https://github.com/NRLacerda?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/NRLacerda?tab=repositories](https://github.com/NRLacerda?tab=repositories)
 
 - 📫 How to reach me **nrochalacerda@gmail.com**
 
