@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **nrochalacerda@gmail.com**
 
-- ⚡ Fun fact **i'm also a drawer (see on my instagram).**
+- ⚡ Fun fact **i'm also an illustrator (see on my instagram).**
 
 <hr>
 <!-- Coding languages and stuff I work on -->
