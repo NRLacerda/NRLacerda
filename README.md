@@ -34,7 +34,7 @@
 
 -  Contato pessoal **nrochalacerda@gmail.com**
 
--  Tenho inglês avaçado (conversação/escrita/leitura)
+-  Tenho inglês avançado (conversação/escrita/leitura)
 
 <hr>
 <!-- Coding languages and stuff I work on -->
