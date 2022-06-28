@@ -2,8 +2,8 @@
 
 <hr>
 
-<h1 align="center">👋, I'm Nicolas Rocha Lacerda</h1>
-<h3 align="center">A passionate current autodidact back/frontend dev from São Paulo/SP</h3>
+<h1 align="center">Eu sou o Nicolas Rocha Lacerda</h1>
+<h3 align="center">Um estudante de back/frontend dev from São Paulo/SP, atualmente no superior em ADS</h3>
 
 <hr>
 
@@ -28,20 +28,20 @@
  
 - 🔥 Proficient in **HTML/CSS/UX**
 
-- 🌱 I’m currently learning **Angular** for my front-end
+- 🌱 Atualmente estudando **Bootstrap**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/NRLacerda?tab=repositories](https://github.com/NRLacerda?tab=repositories)
+- 👨‍💻 Meus Projetos podem ser encontrados em: [https://github.com/NRLacerda?tab=repositories](https://github.com/NRLacerda?tab=repositories)
 
-- 📫 How to reach me **nrochalacerda@gmail.com**
+- 📫 Contato pessoal **nrochalacerda@gmail.com**
 
-- ⚡ Fun fact **i'm also an illustrator (see on my instagram).**
+- ⚡ Tenho inglês avaçado (conversação/escrita/leitura)
 
 <hr>
 <!-- Coding languages and stuff I work on -->
 
-### Tools I work upon : 🛠
+### Ferramentas que utilizo : 🛠
 
-JavaScript, C#, Windows Server, HTML/CSS, UX
+JavaScript, C#, Windows Server, HTML/CSS, **SQL Server**
 
 <hr>
 
@@ -58,7 +58,7 @@ JavaScript, C#, Windows Server, HTML/CSS, UX
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=NRLacerda&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRLacerda&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
 
-Feel free to contact me on discord:Neeco, chemistry tutor#5195
+Discord: CaaS | Cavalcanti as a Service#5195
 
 <hr>
 
