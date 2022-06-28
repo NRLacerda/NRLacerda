@@ -26,15 +26,15 @@
 <!-- Coding joke image and our details -->
 
  
-- 🔥 Proficient in **HTML/CSS/UX**
+-  Proficient in **HTML/CSS/SQL Server**
 
-- 🌱 Atualmente estudando **Bootstrap**.
+-  Atualmente estudando **Bootstrap**.
 
-- 👨‍💻 Meus Projetos podem ser encontrados em: [https://github.com/NRLacerda?tab=repositories](https://github.com/NRLacerda?tab=repositories)
+-  Meus Projetos podem ser encontrados em: [https://github.com/NRLacerda?tab=repositories](https://github.com/NRLacerda?tab=repositories)
 
-- 📫 Contato pessoal **nrochalacerda@gmail.com**
+-  Contato pessoal **nrochalacerda@gmail.com**
 
-- ⚡ Tenho inglês avaçado (conversação/escrita/leitura)
+-  Tenho inglês avaçado (conversação/escrita/leitura)
 
 <hr>
 <!-- Coding languages and stuff I work on -->
