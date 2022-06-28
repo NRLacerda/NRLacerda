@@ -3,7 +3,7 @@
 <hr>
 
 <h1 align="center">Eu sou o Nicolas Rocha Lacerda</h1>
-<h3 align="center">Um estudante de back/frontend dev, atualmente no superior em ADS</h3>
+<h3 align="center">Um desenvolvedor back/frontend, atualmente no superior em ADS</h3>
 
 <hr>
 
