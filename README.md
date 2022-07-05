@@ -30,7 +30,7 @@
 
 -  Atualmente estudando **Bootstrap**.
 
--  Meus Projetos podem ser encontrados em: [https://github.com/NRLacerda?tab=repositories](https://github.com/NRLacerda?tab=repositories)
+-  Meus Projetos podem ser encontrados na aba de repositórios aqui no site.
 
 -  Contato pessoal **nrochalacerda@gmail.com**
 
