@@ -39,7 +39,7 @@
 <hr>
 <!-- Coding languages and stuff I work on -->
 
-### Ferramentas que utilizo : 🛠
+### Ferramentas que utilizo : 
 
 JavaScript, C#, Windows Server, HTML/CSS, **SQL Server**
 
