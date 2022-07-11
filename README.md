@@ -26,7 +26,7 @@
 <!-- Coding joke image and our details -->
 
  
--  Proficient in **HTML/CSS/SQL Server**
+-  Proeficiente em **HTML/CSS/SQL Server**
 
 -  Atualmente estudando **Bootstrap**.
 
