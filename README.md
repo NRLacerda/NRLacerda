@@ -23,9 +23,9 @@
 <!-- Coding joke image and our details -->
 
  
--  Proeficiente em **HTML/CSS/SQL Server**
+-  Proeficiente em **HTML/CSS/SQL Server/Bootstrap**
 
--  Atualmente estudando **Bootstrap**.
+-  Atualmente estudando **JavaScript**.
 
 -  Meus Projetos podem ser encontrados na aba de repositórios aqui no site.
 
