@@ -27,7 +27,7 @@
 
 -  Atualmente estudando **JavaScript**.
 
--  Meus Projetos podem ser encontrados na aba de repositórios aqui no site.
+-  Meus Projetos podem ser encontrados na aba de repositórios, e projetos em grupo <a href="https://github.com/Desonrados" target="_blank">aqui</a>
 
 -  Contato pessoal **nrochalacerda@gmail.com**
 
