@@ -25,7 +25,7 @@
  
 -  Proeficiente em **C#/JS/HTML/CSS/SQLServer/Bootstrap**
 
--  Atualmente estudando **React**.
+-  Atualmente estudando **Angular**.
 
 -  Meus Projetos podem ser encontrados na aba de repositórios, e projetos em grupo <a href="https://github.com/Desonrados" target="_blank">aqui</a>
 
