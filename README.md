@@ -38,7 +38,7 @@
 
 ### Ferramentas que utilizo : 
 
-JavaScript, C#, Windows Server, HTML/CSS, **SQL Server**
+Angular, JavaScript, C#, HTML/CSS, SQL, NodeJS 
 
 <hr>
 
