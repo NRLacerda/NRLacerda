@@ -23,7 +23,7 @@
 <!-- Coding joke image and our details -->
 
  
--  Proeficiente em **C#/JS/HTML/CSS/Angular/SQL**
+-  Proeficiente em **C#/JS/Angular/SQL**
 
 -  Meus Projetos podem ser encontrados na aba de repositórios, e projetos em grupo <a href="https://github.com/Desonrados" target="_blank">aqui</a>
 
