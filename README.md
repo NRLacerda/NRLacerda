@@ -11,8 +11,7 @@
 
 -  Meus projetos pessoais na aba de repositórios, e projetos em grupo <a href="https://github.com/Desonrados" target="_blank">aqui</a>
 
--  Contato pessoal **nrochalacerda@gmail.com**
-- ou <a href="https://www.linkedin.com/in/nicolas-rocha-lacerda-b550491b8/">Linkedin</a>
+-  Contato pessoal **nrochalacerda@gmail.com** ou <a href="https://www.linkedin.com/in/nicolas-rocha-lacerda-b550491b8/">Linkedin</a>
 -  Inglês avançado C1 - (conversação/escrita/leitura)
 
 <hr>
