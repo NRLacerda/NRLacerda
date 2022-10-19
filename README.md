@@ -7,13 +7,11 @@
 <h3 align="center"> Acesse meu <a href="https://nrlacerda.github.io/">site</a>
 <hr>
 <hr>
--  Focado em <strong>C#/NodeJS/Angular/SQL</strong>
-<br>
--  Meus projetos pessoais na aba de repositórios, e projetos em grupo <a href="https://github.com/Desonrados" target="_blank">aqui</a>
-<br>
--  Contato pessoal **nrochalacerda@gmail.com** ou <a href="https://www.linkedin.com/in/nicolas-rocha-lacerda-b550491b8/">Linkedin</a>
-<br>
--  Inglês avançado C1 - (conversação/escrita/leitura)
+<li>Focado em <strong>C#/NodeJS/Angular/SQL</strong></li>
+<li>Meus projetos pessoais na aba de repositórios, e projetos em grupo <a href="https://github.com/Desonrados" target="_blank">aqui</a></li>
+<li>Contato pessoal **nrochalacerda@gmail.com** ou <a href="https://www.linkedin.com/in/nicolas-rocha-lacerda-b550491b8/">Linkedin</a></li>
+<li>Inglês avançado C1 - (conversação/escrita/leitura)</li>
+
 <hr>
 <hr>
 
