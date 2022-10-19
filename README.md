@@ -19,7 +19,7 @@
 
 <h3 align="left">Tecnologias principais:</h3>
 
-<p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <img src="jsico.png" width="50"></p><img src="https://seeklogo.com/images/A/angular-icon-logo-9946B9795D-seeklogo.com.png"height="50"/>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> </a> <img src="jsico.png" width="75"></p><img src="https://seeklogo.com/images/A/angular-icon-logo-9946B9795D-seeklogo.com.png"height="75"/><img src="https://cdn-icons-png.flaticon.com/512/74/74906.png" width="75">
 
 <hr>
 
