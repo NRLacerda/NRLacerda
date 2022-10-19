@@ -3,7 +3,7 @@
 <hr>
 
 <h1 align="center">Olá, meu nome é Nicolas Rocha Lacerda</h1>
-<h3 align="center">Um desenvolvedor fullstack em aprendizado</h3>
+<h3 align="center">Estudante de ADS na Faculdade Estácio</h3>
 
 <hr>
 
