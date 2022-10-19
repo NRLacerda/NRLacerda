@@ -5,25 +5,8 @@
 <h1 align="center">Olá, meu nome é Nicolas Rocha Lacerda</h1>
 <h3 align="center">Estudante de ADS na Faculdade Estácio</h3>
 <h3 align="center"> Acesse meu <a href="https://nrlacerda.github.io/">site</a>
-
 <hr>
-
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150px"/> 
-
 <hr>
-<!-- Your badges -->
-
-  [![Github](https://img.shields.io/badge/-@NRLacerda-black?style=flat&logo=Github&logoColor=white)](https://github.com/NRLacerda)
-  [![Instagram](https://img.shields.io/badge/-neecolart-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/neecolart)
-  [![Gmail](https://img.shields.io/badge/-NRLacerda-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nrochalacerda@gmail.com)
-  <img src="https://komarev.com/ghpvc/?username=NRLacerda&label=Profile%20views&color=0e75b6&style=flat" alt="neeco" /> 
-  
- <hr>
- 
-<hr>
-<!-- Coding joke image and our details -->
-
- 
 -  Focado em **C#/NodeJS/Angular/SQL**
 
 -  Meus projetos pessoais na aba de repositórios, e projetos em grupo <a href="https://github.com/Desonrados" target="_blank">aqui</a>
