@@ -7,7 +7,7 @@
 <h3 align="center"> Acesse meu <a href="https://nrlacerda.github.io/">site</a>
 <hr>
 <hr>
--  Focado em **C#/NodeJS/Angular/SQL**
+-  Focado em <strong>C#/NodeJS/Angular/SQL</strong>
 
 -  Meus projetos pessoais na aba de repositórios, e projetos em grupo <a href="https://github.com/Desonrados" target="_blank">aqui</a>
 
