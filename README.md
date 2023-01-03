@@ -8,7 +8,7 @@
 <hr>
 <hr>
   <div align="left">
-<li>Focado em <strong>Node/Angular/C#</strong></li>
+<li>Focado em <strong>.NET/Angular/Node</strong></li>
 <li>Meus projetos pessoais na aba de repositórios, e projetos em grupo <a href="https://github.com/Desonrados" target="_blank">aqui</a></li>
 <li>Contato pessoal nrochalacerda@gmail.com ou <a href="https://www.linkedin.com/in/nicolas-rocha-lacerda-b550491b8/">Linkedin</a></li>
 <li>Inglês avançado C1 - (conversação/escrita/leitura)</li>
