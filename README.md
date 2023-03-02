@@ -2,8 +2,8 @@
 
 <hr>
 
-<h1 align="center">Olá, meu nome é Nicolas Rocha Lacerda</h1>
-<h3 align="center">Estudante de ADS na Faculdade Estácio</h3>
+<h1 align="center">Me chamo Nicolas Rocha Lacerda</h1>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
 <h3 align="center"> Acesse meu <a href="https://nrlacerda.github.io/">site</a>
 <hr>
 <hr>
