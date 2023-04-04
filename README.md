@@ -2,13 +2,13 @@
 
 <hr>
 
-<h1 align="center">Me chamo Nicolas Rocha Lacerda</h1>
+<h1 align="center">Olá, bem vindo(a), sou o Nicolas Lacerda</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
 <h3 align="center"> Acesse meu <a href="https://nrlacerda.github.io/">site</a>
 <hr>
 <hr>
   <div align="left">
-<li>Desenvolvedor <strong>.NET/Angular/Node</strong></li>
+<li>Desenvolvedor <strong>.NET/Angular/AWS/Node</strong></li>
 <li>Projetos pessoais na aba de repositórios, e projetos em grupo <a href="https://github.com/Desonrados" target="_blank">aqui</a></li>
 <li>Contatos: nrochalacerda@gmail.com ou <a href="https://www.linkedin.com/in/nicolas-rocha-lacerda-b550491b8/">Linkedin</a></li>
 <li>Inglês Avançado - C1</li>
