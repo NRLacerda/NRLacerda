@@ -16,12 +16,6 @@
 <hr>
 <hr>
 
-<h3 align="left">Tecnologias principais:</h3>
-
-<p align="center"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> </a> <img src="jsico.png" width="75"><img src="https://seeklogo.com/images/A/angular-icon-logo-9946B9795D-seeklogo.com.png"height="75"/><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/be/33/fd/be33fdbc-00d6-1f55-0a34-466255accbb5/source/512x512bb.jpg" width="75"></p>
-
-<hr>
-
 ![NRLacerda](https://github-readme-stats.vercel.app/api?username=NRLacerda&count_private=true&show_icons=true)
 <a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NRLacerda&" alt="orangesidny" />
