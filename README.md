@@ -7,7 +7,7 @@
 <hr>
 <hr>
   <div align="left">
-<li>Desenvolvedor <strong>Java/.NET/Angular</strong></li>
+<li>Desenvolvedor <strong>C#/Java/Angular</strong></li>
 <li>Clouds: <strong>AWS/GCloud</strong></li>
 <li>Databases: <strong>SQLServer/Postgres/MongoDB</strong></li>
 <li>Projetos pessoais na aba de repositórios, e projetos em grupo <a href="https://github.com/orgs/organizaca0/repositories" target="_blank">aqui</a></li>
