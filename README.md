@@ -2,7 +2,6 @@
 <h1 align="center">Bem vindo(a), sou o Nicolas Lacerda</h1>
 <h3 align="center">Desenvolvedor fullstack e graduando de Ciência da Computação na UFABC </h3>
 <hr>
-<hr>
   <div align="left">
 <li>Desenvolvedor <strong>C#/Java/Angular</strong></li>
 <li>Clouds: <strong>AWS/GCloud</strong></li>
@@ -16,6 +15,5 @@
 <a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NRLacerda&" alt="orangesidny" />
 </a>
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=NRLacerda&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRLacerda&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
 <hr>
 
