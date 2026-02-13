@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer at @Amazon</h3>
 <hr>
   <div align="left">
-<li>Langs: <strong>C# / Java / Go</strong></li>
+<li>Langs: <strong>C# / Java / Go / C</strong></li>
 <li>Clouds: <strong>AWS / Azure /GCP </strong></li>
 <li>Databases: <strong>SQLServer / Postgres / MongoDB / DynamoDB / Redis</strong></li>
 <li>Some collaborational projects you can find <a href="https://github.com/orgs/organizaca0/repositories" target="_blank">there</a></li>
