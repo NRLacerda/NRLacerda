@@ -65,13 +65,3 @@ Active focus on backtracking · DFS/BFS · tree structures · dynamic programmin
 | Portuguese | Native |
 | English | C1 |
 | Spanish | B2 |
-
----
-
-## Activity
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NRLacerda&theme=dark&hide_border=true)](https://github.com/NRLacerda)
-
----
-
-*São Paulo · open to infra/fintech/crypto engineering conversations*
