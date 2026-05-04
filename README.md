@@ -1,7 +1,4 @@
-![banner](./banner.png)
-
-# Nicolas Lacerda
-**Software Engineer · Amazon · São Paulo, BR**
+![banner](./banner_terminal.png)
 
 Building financial infrastructure, payments systems, and crypto platforms.
 4+ years in fintechs and banks — from low-level C to distributed cloud systems.
